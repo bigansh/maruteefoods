@@ -1,0 +1,27 @@
+html {
+	margin: 0;
+	padding: 0;
+	scroll-padding-top: 20px;
+}
+
+#body {
+	font-family: 'Poppins';
+}
+
+#showcase {
+	background-image: url(assets/showcase.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100vh;
+}
+
+.card-img-top {
+	height: 15rem;
+	object-fit: cover;
+}
+
+#map {
+	height: 50vh;
+	width: 50vw;
+}
